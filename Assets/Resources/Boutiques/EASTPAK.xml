@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<EASTPAK>
+		<string name="Nom_boutique">EASTPAK</string>
+		<string name="Logo_boutique">Logos/eastpak</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 17 53 85</string>
+		<string name="Site_boutique">www.eastpak.com</string>
+		<string name="Type_boutique">Loisir</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</EASTPAK>
+</boutiques>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<CHANEL>
+		<string name="Nom_boutique">CHANEL</string>
+		<string name="Logo_boutique">Logos/chanel</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 13 66 61</string>
+		<string name="Site_boutique">www.chanel.com</string>
+		<string name="Type_boutique">Autre</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</CHANEL>
+</boutiques>

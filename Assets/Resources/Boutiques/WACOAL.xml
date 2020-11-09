@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<WACOAL>
+		<string name="Nom_boutique">WACOAL</string>
+		<string name="Logo_boutique">Logos/wacoal</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 08 91 27</string>
+		<string name="Site_boutique">www.wacoal.com</string>
+		<string name="Type_boutique">Loisir</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</WACOAL>
+</boutiques>

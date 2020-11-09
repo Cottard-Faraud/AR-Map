@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<CHN>
+		<string name="Boutique_Type1">食物</string>
+		<string name="Boutique_Type2">着装</string>
+		<string name="Boutique_Type3">化妆品类</string>
+		<string name="Boutique_Type4">休闲娱乐</string>
+		<string name="Boutique_Type5">其他</string>
+
+    <string name="Menu_Boutique_Defaut">点击商店</string>
+
+    <string name="Menu_Recherche_Titre">搜索</string>
+
+    <string name="Menu_Parametre_Titre1">语言能力</string>
+  </CHN>
+</languages>

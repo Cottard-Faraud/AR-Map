@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<ARMANI>
+		<string name="Nom_boutique">ARMANI</string>
+		<string name="Logo_boutique">Logos/armani</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 108 68 35</string>
+		<string name="Site_boutique">www.armani.com</string>
+		<string name="Type_boutique">Cosmetique</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</ARMANI>
+</boutiques>

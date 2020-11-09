@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<QEELIN>
+		<string name="Nom_boutique">QEELIN</string>
+		<string name="Logo_boutique">Logos/qeelin</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 510 13 510</string>
+		<string name="Site_boutique">www.qeelin.com</string>
+		<string name="Type_boutique">Loisir</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</QEELIN>
+</boutiques>

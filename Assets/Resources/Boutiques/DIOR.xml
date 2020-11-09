@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<DIOR>
+		<string name="Nom_boutique">DIOR</string>
+		<string name="Logo_boutique">Logos/dior</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 42 24 79</string>
+		<string name="Site_boutique">www.dior.com</string>
+		<string name="Type_boutique">Vestimentaire</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</DIOR>
+</boutiques>

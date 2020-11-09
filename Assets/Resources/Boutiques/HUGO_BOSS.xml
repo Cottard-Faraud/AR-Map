@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<HUGO_BOSS>
+		<string name="Nom_boutique">HUGO BOSS</string>
+		<string name="Logo_boutique">Logos/hugo_boss</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 33 40 30</string>
+		<string name="Site_boutique">www.hugoboss.com</string>
+		<string name="Type_boutique">Cosmetique</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</HUGO_BOSS>
+</boutiques>

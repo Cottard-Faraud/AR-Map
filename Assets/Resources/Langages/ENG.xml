@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<ENG>
+		<string name="Boutique_Type1">Alimentary</string>
+		<string name="Boutique_Type2">Clothing</string>
+		<string name="Boutique_Type3">Cosmetic</string>
+		<string name="Boutique_Type4">Leisure</string>
+		<string name="Boutique_Type5">Other</string>
+
+    <string name="Menu_Boutique_Defaut">Click on a store</string>
+    
+    <string name="Menu_Recherche_Titre">Search</string>
+
+    <string name="Menu_Parametre_Titre1">Languages</string>
+	</ENG>
+</languages>

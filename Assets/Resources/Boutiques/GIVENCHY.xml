@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<GIVENCHY>
+		<string name="Nom_boutique">GIVENCHY</string>
+		<string name="Logo_boutique">Logos/givenchy</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 58 53 50</string>
+		<string name="Site_boutique">www.givenchy.com</string>
+		<string name="Type_boutique">Vestimentaire</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</GIVENCHY>
+</boutiques>

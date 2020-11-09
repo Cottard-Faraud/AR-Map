@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<PAPO>
+		<string name="Nom_boutique">PAPO</string>
+		<string name="Logo_boutique">Logos/papo</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 66 05 92</string>
+		<string name="Site_boutique">www.papo.com</string>
+		<string name="Type_boutique">Autre</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</PAPO>
+</boutiques>

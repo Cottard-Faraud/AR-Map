@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<UGG>
+		<string name="Nom_boutique">UGG</string>
+		<string name="Logo_boutique">Logos/ugg</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 15 07 110</string>
+		<string name="Site_boutique">www.ugg.com</string>
+		<string name="Type_boutique">Loisir</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</UGG>
+</boutiques>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<WHAT_THE_FLOWER>
+		<string name="Nom_boutique">WHAT THE FLOWER</string>
+		<string name="Logo_boutique">Logos/what_the_flower</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 105 21 33</string>
+		<string name="Site_boutique">www.whattheflower.com</string>
+		<string name="Type_boutique">Vestimentaire</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</WHAT_THE_FLOWER>
+</boutiques>

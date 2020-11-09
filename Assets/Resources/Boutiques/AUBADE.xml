@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boutiques>
+	<AUBADE>
+		<string name="Nom_boutique">AUBADE</string>
+		<string name="Logo_boutique">Logos/aubade</string>
+		<string name="Horaires_boutique">8h-12h / 13h-17h30</string>
+		<string name="Telephone_boutique">04 90 96 96 13</string>
+		<string name="Site_boutique">www.aubade.com</string>
+		<string name="Type_boutique">Loisir</string>
+		<string name="Contenu_boutique">Ceci est un contenu</string>
+	</AUBADE>
+</boutiques>
